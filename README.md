@@ -4,8 +4,6 @@ Thu Do
 
 CS625: Data Visualization
 
-Due: Monday, December 11 by 11:59pm
-
 ## Datasets
 
 *Link to Real Gross Domestic Product Data Source:* https://fred.stlouisfed.org/series/GDPC1
