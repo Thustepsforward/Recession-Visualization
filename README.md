@@ -6,11 +6,11 @@ CS625: Data Visualization
 
 ## Datasets
 
-*Link to Real Gross Domestic Product Data Source:* https://fred.stlouisfed.org/series/GDPC1
+*Link to Real Gross Domestic Product Data Source:* https://fred.stlouisfed.org/series/GDPC1 or [GDPC1.csv](https://github.com/Thustepsforward/Recession-Visualization/blob/main/GDPC1.csv)
 
-*Link to Federal Funds Interest Rates Data Source:* https://fred.stlouisfed.org/series/FEDFUNDS
+*Link to Federal Funds Interest Rates Data Source:* https://fred.stlouisfed.org/series/FEDFUNDS or [FEDFUNDS.csv](https://github.com/Thustepsforward/Recession-Visualization/blob/main/FEDFUNDS.csv)
 
-*Link to Unemployment Rate Data Source:* https://fred.stlouisfed.org/series/UNRATE
+*Link to Unemployment Rate Data Source:* https://fred.stlouisfed.org/series/UNRATE or [unemployment-rate.csv](https://github.com/Thustepsforward/Recession-Visualization/blob/main/unemployment-rate.csv)
 
 All of the data was obtained from the Federal Reserve Bank of St. Louis's website, which is particularly known for its FRED database containing a wide range of economic time series data. The federal funds interest rate, unemployment rate, and real GDP are key economic indicators that provide insights into an economy's health and performance. 
 Real GDP represents the total value of goods and services produced, adjusted for inflation, offering a measure of economic output  on a quarterly basis. The federal funds interest rate, controlled by the central bank, influences borrowing costs and economic activity. 
