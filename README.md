@@ -25,13 +25,13 @@ A high unemployment rate may indicate economic distress, while a low unemploymen
 
 ## Final Chart
 
-<img src="CS625-Final-Visualization.png" alt="Facet Line Chart Showing COVID-19 Recession: Strongest Impact with Quickest Recovery of the 21st Century">
+<img src="CS625-Final-Vis-Image.png" alt="Facet Line Chart Showing COVID-19 Recession: Strongest Impact with Quickest Recovery of the 21st Century">
 
 Link to Final Chart:
 
 [PDF version (Download for Better Quality)](https://github.com/Thustepsforward/Recession-Visualization/blob/main/CS625-Final-Visualization.pdf)
 
-[PNG version](https://github.com/odu-cs625-datavis/fall23-mcw-Thustepsforward/blob/main/CS625-Final-Visualization.png)
+[PNG version](https://github.com/Thustepsforward/Recession-Visualization/blob/main/CS625-Final-Vis-Image.png)
 
 [Chart in Google Colab](https://colab.research.google.com/drive/1Bxi4O7_ar2OLzAm3eXmKXM1LJ-IrwJUT?usp=sharing)
 
