@@ -29,7 +29,7 @@ A high unemployment rate may indicate economic distress, while a low unemploymen
 
 Link to Final Chart:
 
-[PDF version (Download for Better Quality)](https://github.com/odu-cs625-datavis/fall23-mcw-Thustepsforward/blob/main/CS625-Visualization.pdf)
+[PDF version (Download for Better Quality)](https://github.com/Thustepsforward/Recession-Visualization/blob/main/CS625-Final-Visualization.pdf)
 
 [PNG version](https://github.com/odu-cs625-datavis/fall23-mcw-Thustepsforward/blob/main/CS625-Final-Visualization.png)
 
